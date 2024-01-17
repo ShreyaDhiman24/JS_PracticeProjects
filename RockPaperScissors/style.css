@@ -1,0 +1,19 @@
+#game {
+  font-family: "Brush Script MT", cursive;
+  background-color: aliceblue;
+  padding-bottom: 22px;
+  text-align: center;
+  border: 4px solid;
+  border-radius: 10px;
+}
+.btn {
+  line-height: 30px;
+  width: 150px;
+  border-radius: 6px;
+}
+#player {
+  color: red;
+}
+#comp {
+  color: blue;
+}

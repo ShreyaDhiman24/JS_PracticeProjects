@@ -11,7 +11,6 @@ choiceBtn.forEach((btn) =>
     compChoice();
     compText.textContent = `Computer: ${computer}`;
     res.textContent = checkWinner();
-    console.log(checkWinner());
   })
 );
 
